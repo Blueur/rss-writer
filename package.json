@@ -1,0 +1,28 @@
+{
+  "name": "rss-writer",
+  "version": "0.1.0",
+  "description": "an independant and functional RSS writer",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blueur/rss-writer.git"
+  },
+  "keywords": [
+    "rss",
+    "rss builder",
+    "rss writer",
+    "feed",
+    "feed builder",
+    "feed writer",
+    "rss feed"
+  ],
+  "author": "David Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blueur/rss-writer/issues"
+  },
+  "homepage": "https://github.com/Blueur/rss-writer#readme"
+}
